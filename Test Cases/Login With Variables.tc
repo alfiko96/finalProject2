@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login With Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e76dd61-d526-4aed-b5ba-8fce2ed34fed</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1641211-cf07-4bb8-a290-0c56e96d95ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7d68435-7072-41b1-b22d-9aa72429b742</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'alfiko'</defaultValue>
+      <description></description>
+      <id>e1641211-cf07-4bb8-a290-0c56e96d95ad</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'alfiko'</defaultValue>
+      <description></description>
+      <id>a7d68435-7072-41b1-b22d-9aa72429b742</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
